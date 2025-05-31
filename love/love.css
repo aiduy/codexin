@@ -178,7 +178,7 @@ body{
     position: relative;
     top: 15px;
     right: -200%;
-    width: 68%;
+    width: 70%;
     animation: boxInputHands 1s 9s forwards ease-in;
 }
 @keyframes boxInputHands{
